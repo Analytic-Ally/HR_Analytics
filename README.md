@@ -3,9 +3,12 @@
 
 Efficiently manage workforce dynamics with our HR Analytics project. Monitor salary trends, track current employees, analyze age demographics, and gauge attrition rates to optimize HR strategies. This tool provides a comprehensive overview, enabling businesses to make informed decisions and enhance employee management.
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 
+
+## Demo
+
+![ezgif com-video-to-gif (1)](https://github.com/Analytic-Ally/HR_Analytics/assets/149322654/84fa2076-4e1c-42be-a40a-c07a8c607628)
 
 
 
@@ -39,9 +42,8 @@ src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-mi
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-## Demo
+# 
 
-![ezgif com-video-to-gif (1)](https://github.com/Analytic-Ally/HR_Analytics/assets/149322654/84fa2076-4e1c-42be-a40a-c07a8c607628)
 
 
 
@@ -69,8 +71,6 @@ src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-mi
 
 ![Screenshot 2023-12-09 205543](https://github.com/Analytic-Ally/HR_Analytics/assets/149322654/5ed1753b-2638-4bab-9a11-c4cf6fa30be5)
 
-
-## 🔗 Links:- 
 
 <p align="left">
 <a href="https://twitter.com/tusharg41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharg41" height="30" width="40" /></a>
