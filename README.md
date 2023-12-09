@@ -7,9 +7,7 @@ Efficiently manage workforce dynamics with our HR Analytics project. Monitor sal
 
 
 
-## Demo
 
-![ezgif com-video-to-gif (1)](https://github.com/Analytic-Ally/HR_Analytics/assets/149322654/f4cb7b15-19e7-4ef4-bd75-9be7dbef12eb)
 
 ## 🧰 Tech Stack 
 
@@ -39,6 +37,12 @@ src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-mi
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+## Demo
+
+![ezgif com-video-to-gif (1)](https://github.com/Analytic-Ally/HR_Analytics/assets/149322654/84fa2076-4e1c-42be-a40a-c07a8c607628)
+
 
 
 ## Key features :- 
